@@ -1,0 +1,35 @@
+Assignment 1 - Shopping Cart
+Executive Summary 
+TCSS 305: Programming Practicum, Autumn 2011
+
+Name: Alex Stringham
+UWNetID: ats3216
+Subversion Revision Number: 7
+
+Assignment Overview
+
+This assignment was to enable us to remember what we had learned (or at least what I had learned) in TCSS 143.
+It covered many of the same topics such as lists, ArrayLists, Iterators, toString(), equals(), and other basic
+programming algorithms. We completed the "back end" section of this shopping cart program so that the already 
+written "front end" would function properly. While rehashing a lot of what I had previously learned in TCSS143,
+this assignment also showed how useful the tools can be in debugging your code. I also learned what the 
+hashCode() method was, as well as StringBuilder.
+
+
+Technical Impression
+
+This assignment, while at first seemed very difficult to me, actually ended up being fairly simple. Of course, 
+there were some minor hiccups along the way, but that comes with any given project. First off, I thought it was
+really cool that we were actually using a GUI to display the code that we had written. Even if we didn't program
+it, I thought it was a neat way of displaying our "back end" part of the code. By far, the most difficult sections
+of this assignment were the priceFor(), equals(), add(), and getTotal() methods. They had the most difficult 
+coding aspects, as well as some semi-tricky algorithms to figure out. All in all though, it was not too bad. 
+I did however end up not being able to get rid of two bugs in my program. They don't seem to hamper the output,
+but they are still annoying nonetheless. These bugs are:
+
+"Equals method for Item asumes the argument is of type Item."
+"Item.equals(Object) does not check for null argument"
+
+I'm not necessarily sure what the first bug means, for I thought I was fairly deliberate in my assignment.
+I did however try to fix the second bug by checking for a null argument, but I still couldn't get it to 
+go away in the end. 
