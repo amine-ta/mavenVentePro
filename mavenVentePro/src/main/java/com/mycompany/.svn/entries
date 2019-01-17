@@ -1,0 +1,35 @@
+10
+
+dir
+0
+svn+ssh://cssgate.insttech.washington.edu/home/INSTTECH/ats3216/svn/css305a11/USERNAME-shoppingcart/mavenVentePro/src/main/java/com/mycompany
+svn+ssh://cssgate.insttech.washington.edu/home/INSTTECH/ats3216/svn/css305a11
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+646ce446-7b8d-4177-8feb-5dba27f77be4
+
+mavenventepro
+dir
+
+
+
+add
+
